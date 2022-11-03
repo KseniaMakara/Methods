@@ -1,0 +1,17 @@
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.Form1.resources
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.GenerateResource.cache
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\refint\Lab1.dll
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\AMD\Desktop\LabCh\Lab1\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
